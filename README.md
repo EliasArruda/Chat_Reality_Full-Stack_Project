@@ -51,7 +51,7 @@ display: block;
 position: relative;
 margin-bottom: 1rem;
 ' 
-src="../ScreenShots/Home.png" 
+src="./ScreenShots/Home.png" 
 alt="Erro" />
 
 <p
@@ -88,7 +88,7 @@ display: block;
 position: relative;
 margin-bottom: 1rem;
 ' 
-src="../ScreenShots/Login.png" 
+src="./ScreenShots/Login.png" 
 alt="Erro" />
 
 <p
@@ -130,7 +130,7 @@ display: block;
 position: relative;
 margin-bottom: 1rem;
 ' 
-src="../ScreenShots/Login.png" 
+src="./ScreenShots/Chat.png" 
 alt="Erro" />
 
 <p
@@ -162,7 +162,7 @@ display: block;
 position: relative;
 margin-bottom: 1rem;
 ' 
-src="../ScreenShots/Login.png" 
+src="./ScreenShots/Username_Chat.png" 
 alt="Erro" />
 
 <p
