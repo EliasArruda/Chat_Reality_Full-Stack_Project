@@ -6,9 +6,36 @@ text-align: center;
 '>
 <h1
 style='
+display:block;
+position:relative;
 font-size: 30pt;
+margin-bottom:2rem;
 '>Full-Stack Chat</h1>
 </div>
+
+<h1
+style='
+position:relative;
+display:block;
+text-align:center;
+margin-bottom:2rem;
+'>OBS</h1>
+
+<li
+style='
+position: relative;
+margin-bottom: 2rem;
+'>
+Usar <code>yarn add</code> em ambos os 2 <br/> 
+para a instalação de todas dependencias
+[Client,Server]
+</li>
+
+<li>
+Criar um .env com a URL do seu banco de dados, apenas pro prisma conseguir se connectar ,
+é criar uma tabela com as credencias passadas pelo
+usuario
+</li>
 
 <h2
 style='
@@ -149,3 +176,5 @@ margin-bottom: 2rem;
 Após definir um nome , terá total liberdade
 para expressar sua opinião , e seus pensamentos, 
 </p>
+
+
