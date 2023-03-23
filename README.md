@@ -32,7 +32,7 @@ para a instalação de todas dependencias
 </li>
 
 <li>
-Criar um .env com a URL do seu banco de dados, apenas pro prisma conseguir se connectar ,
+Criar um <code>.env</code> com a URL do seu banco de dados, apenas pro prisma conseguir se connectar ,
 é criar uma tabela com as credencias passadas pelo
 usuario
 </li>
